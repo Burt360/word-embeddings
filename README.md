@@ -1,0 +1,1 @@
+This repository investigates using various measures of vector similarity when computing word embeddings, as well as the effect on performance on a sequence classification task using the resulting embeddings. See `paper.pdf` for more details.
